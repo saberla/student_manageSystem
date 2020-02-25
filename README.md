@@ -1,5 +1,5 @@
 # student_manageSystem
-具备登录、注册、查询、删除、修改功能的前后端交互学生管理系统，学生、教师登录后所拥有的权限不同
+具备登录、注册、查询、删除、修改功能的前后端交互学生管理系统，学生、教师登录后所拥有的权限不同（为毕设项目做准备）
 # 技术栈
 ### 前端 vue-cli3+vue2+vuex+vue-router+element-ui+ES6
 ### 后端 nodejs+express+mongodb
