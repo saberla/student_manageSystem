@@ -127,7 +127,7 @@ export default {
           console.log(err)
         })
     },
-    // 修改信息   测试
+    // 修改信息   测试驱蚊器翁无群
     openDia (row) {
       this.tempObj = row
       this.tempNum = row.num
