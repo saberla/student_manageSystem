@@ -78,6 +78,7 @@ export default {
     }
   },
   created () {
+    //  特殊化
     if (this.userData.identity === '教师') {
       this.getUsers()
       this.identity = '老师'
